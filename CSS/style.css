@@ -1,0 +1,114 @@
+#body{ 
+    background-color: #EEE;
+}
+
+
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#header{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    
+}
+
+#content{
+    padding: 10px;
+    list-style-type: none;
+    
+}
+
+#Navigation{
+    width: 180px;
+    float: left;
+    border: 1px solid black;
+    list-style-type: square;
+    
+    
+}
+
+
+#main{
+    width: 100%;
+    height: auto;
+    float: left;
+    font-size: 25px;
+    border-color: black;
+    margin-left: 19%;
+    image-orientation: center;
+    
+    
+    
+}
+
+#footer{
+    clear: both;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+ul{
+    list-style-type: none;
+    
+    
+}
+
+#picture{
+    margin-left: 35%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+    
+}
+
+.login-box{
+    width: 280px;
+    position: absolute;
+    top 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    
+    
+}
+
+.login-box h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #4caf50 ;
+    margin-bottom: 50px;
+    padding: 13px 0
+        
+    
+    
+}
+
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #4caf50;
+}
+
+label[for = "box"]{
+    font-size: 15px;
+}
+
+#LoginLinks{
+    font-size: 15px;
+}
+
